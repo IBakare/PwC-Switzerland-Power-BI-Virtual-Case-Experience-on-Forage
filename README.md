@@ -1,7 +1,6 @@
 # PwC-Switzerland-Power-BI-Virtual-Case-Experience-on-Forage
 
-**Task 2**
-Call Centre Trends: Visualising customer and agent behaviour.
+# **Task 2** Call Centre Trends: Visualising customer and agent behaviour.
 
 **KPIs**
 
