@@ -16,4 +16,5 @@
 
 6. Agent’s statistics-> average handle time (talk duration) vs calls answered
 
-![Screenshot (45)](https://user-images.githubusercontent.com/61271340/228938012-e91bf302-7ad8-49d3-b075-d8e948a5b0fc.png)
+![call center trend](https://user-images.githubusercontent.com/61271340/228939811-d4ba199e-b5f2-4dec-a382-ed9b6ebfb602.png)
+
