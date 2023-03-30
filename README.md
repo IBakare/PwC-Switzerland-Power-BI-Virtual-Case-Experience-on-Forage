@@ -16,5 +16,7 @@
 
 6. Agent’s statistics-> average handle time (talk duration) vs calls answered
 
+Interact with my dashboard here https://www.novypro.com/project/pwc-call-centre-dasboard
+
 ![call center trend](https://user-images.githubusercontent.com/61271340/228939811-d4ba199e-b5f2-4dec-a382-ed9b6ebfb602.png)
 
